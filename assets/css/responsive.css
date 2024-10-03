@@ -1,0 +1,902 @@
+@media only screen and (max-width:1800px){
+    .container2 {
+        width: 70%;
+    }
+    .green-text { width: 250px;}
+}
+@media only screen and (max-width:1680px){
+    .contact-menu.active {
+        width: 470px;
+        padding: 130px 60px 35px 60px;
+    }
+    .contact-menu {
+        width: 470px;
+        padding: 130px 60px 35px 60px;
+    }
+    .green-text { width: 250px;}
+    .slider .slogan { margin-left: 10%; }   
+    .slogan h1, h2, .banner h1 {font-size: 70px;}
+    .slide-menu li a {font-size: 20px;}
+    .iconbanner.mainpage p {
+        font-size: 32px;
+    }
+    .container1 .left h2 {
+        font-size: 46px;
+    }
+    .container2 {
+        width: 70%;
+    }
+    .orta-ust {
+        padding: 7% 0px;
+    }
+    .alt-banner {
+        height: 750px;
+    }
+    
+.iconbanner {
+    /* height: 580px; */
+}
+.banner {
+    height: 700px;
+}
+.contact .contact-bilgileri h2 {
+    font-size: 54px;
+}
+.contact .contact-bilgileri ul li:nth-child(1) a {
+    font-size: 50px;
+}
+.header {
+    height: 90px;
+}
+.menu ul li {
+    height: 90px;
+}
+#pencet {
+    left: 30px;
+    bottom: 25px;
+}
+.iconbanner p {
+    width: 80%;
+}
+.container1 .left p {
+    font-size: 18px;
+    padding-bottom: 6%;
+}
+.bottomborder {
+    margin-bottom: 8%;
+}
+.orta-ust .right {
+    width: 55%;
+}
+.orta-ust .left {
+    width: 40%;
+}
+.slide-menu {
+    bottom: 8%;
+}
+
+.orta-ust .right::before {
+    left: calc(-8% + -4px);
+}
+.banner {
+    height: 650px;
+}
+.iconbanner.aboutbanner strong {
+    font-size: 32px;
+}
+.contact .contact-bilgileri h2 {
+    font-size: 46px;
+}
+.contact-bilgileri p {
+    font-size: 18px;
+    margin-bottom: 8%;
+}
+.contact .contact-bilgileri ul li:nth-child(1) a {
+    font-size: 44px;
+}
+.contact .contact-bilgileri ul li span {
+    font-size: 18px;
+}
+input.contact-submit {
+    height: 60px;
+    width: 280px;
+    font-size: 22px;
+}
+.contact-map {
+    height: 320px;
+}
+}
+
+@media only screen and (max-width:1480px){
+    .contacm li:nth-child(1) a {
+        font-size: 30px;
+        margin-top: 0px;
+    }
+    .contacm ul li {
+        margin-bottom: 15px;
+        padding-right: 9px;
+    }
+    .contacm p, .contacm li span {
+        font-size: 16px;
+        text-align: justify;
+    }
+    .contact-menu.active {
+        width: 400px;
+        padding: 100px 50px 35px 50px;
+    }
+    .contact-menu {
+        width: 400px;
+        padding: 100px 50px 35px 50px;
+    }
+    .contact-map {
+        height: 300px;
+    }
+    .contact-b input {
+        height: 50px;
+        width: 270px;
+    }
+    .contact .contact-bilgileri ul li:nth-child(1) span {
+        padding-bottom: 0px;
+    }
+    .contact .contact-form li textarea#message {
+        height: 180px;
+    }
+    .contact .contact-bilgileri ul li span {
+        padding-bottom: 3%;
+    }
+    .contact .contact-bilgileri ul li span {
+        font-size: 16px;
+    }
+    .contact .contact-bilgileri h2 {
+        font-size: 44px;
+    }
+    .contact .contact-bilgileri ul li:nth-child(1) a {
+        font-size: 42px;
+    }
+    .banner {
+        height: 550px;
+    }
+    .iconbanner.aboutbanner strong {
+        font-size: 28px;
+    }
+    .slogan h1, h2, .banner h1 {
+        font-size: 52px;
+        line-height: 58px;
+    }
+    .slider .owl-prev, .slider .owl-next {
+        width: 30px;
+    }
+    .slogan p {
+        font-size: 18px;
+    }
+    .slide-menu li a {
+        font-size: 18px;
+        margin-top: -10px;
+    }
+    .tabb {
+        padding: 0px 110px 16px 0px;
+    }
+    .slide-menu {
+        bottom: 6%;
+    }
+    .iconbanner.aboutbanner .icon-logo {
+        margin-bottom: 2%;
+    }
+    .iconbanner.aboutbanner p {
+        line-height: 32px;
+        margin-top: 1%;
+    }
+    .iconbanner.aboutbanner p {
+        line-height: 34px;
+        margin-top: 1%;
+    }
+    .header {
+        height: 85px;
+    }
+    .menu ul li {
+        height: 85px;
+    }
+    ul.tabs li {
+        font-size: 18px;
+    }
+    .container1 .left h2 {
+        font-size: 40px;
+    }
+    .container1 .left .button a i {
+        height: 60px;
+        width: 60px;
+        
+    }
+    .container1 .left .button span {
+        font-size: 16px;
+        margin-left: 6%;
+    }
+    .tabmenu {
+        margin: 7% 0px;
+    }
+    .alt-banner {
+        height: 660px;
+    }
+    .slogan a {
+        padding: 12px 22px;
+    }
+    .iconbanner {
+        padding: 90px 0px;
+    }
+    .iconbanner.mainpage p {
+        font-size: 24px;
+    }
+    .footer-contact li a {
+        padding: 30px 10px;
+    }
+    .footer-contact i {
+        width: 40px;
+        height: 40px;
+    }
+    .contact-col {
+        margin-left: 6%;
+    }
+    .footer strong {
+        font-size: 18px;
+    }
+.container1 .left p {
+    font-size: 17px;
+}
+.footer .col2 li a {
+    font-size: 16px;
+    line-height: 40px;
+}
+.footer .col1 i {
+    width: 46%;
+}
+.footer-bottom p {
+    font-size: 15px;
+}
+.container2 {
+    width: 70%;
+}
+.footer {
+    padding: 4% 0px 0px 0px;
+}
+.footer-contact span {
+    font-size: 15px;
+}
+.footer-contact span {
+    font-size: 15px;
+}
+.footer .col1 ul {
+    width: 50%;
+}
+.footer .col3 p {
+    width: 80%;
+}
+.footer-contact {
+    margin: 4% 0px;
+}
+.footer-bottom {
+    margin-bottom: 4%;
+
+}
+.menu ul li a {
+    font-size: 16px;
+}
+.iconbanner .icong i {
+    width: 100px;
+    height:50px;
+}
+.iconbanner .icong {
+    margin-bottom: 2%;
+}
+.orta-ust .right::before {
+    left: calc(-8% + -6px);
+}
+.container2 {
+    width: 75%;
+}
+
+}
+@media only screen and (max-width:1375px){
+
+    .contact .contact-bilgileri h2 {
+        font-size: 32px;
+    }
+
+    .contact-b input {
+        height: 48px;
+        width: 250px;
+    }
+    
+}
+
+    @media only screen and (max-width:1100px){
+        
+        
+        .header.fixed .mobil-menu-btn span {
+            background-color: #000;
+        }
+        .arkagorsel {
+            width: 27%;
+        }
+        .menu.active {
+            position: fixed;
+            width: 250px;
+            height: 100vh;
+            background: #17B978;
+            top: 0;
+            z-index: 9999;
+            right: 0;
+            display: flex;
+            transition: all ease-in-out .5s;
+        }
+        .menu {
+            display: block;
+            right: -300px;
+            position: fixed;
+            width: 250px;
+            height: 100vh;
+            background: gray;
+            top: 0;
+            z-index: 9999;
+            display: flex;
+            transition: all ease-in-out .5s;
+        }
+        .menu2 {
+            display: none;
+        }
+        .mobil-menu-btn {
+            display: block;
+            position: relative;
+            right: 0;
+            width: 35px;
+            height: 25px;
+            font-size: 12px;
+            margin-top: 0;
+            z-index: 9999;
+            float: right;
+            margin-left: 15px;
+        }
+        .mobil-menu-btn span {
+            width: 100%;
+            height: 3px;
+            background-color: #fff;
+            position: absolute;
+            top: 0;
+            transition: all ease-in-out .3s;
+        }
+        .mobil-menu-btn span:nth-child(2) {
+            top: 10px;
+            width: 70%;
+            right: 0;
+        }
+        .mobil-menu-btn span:nth-child(3) {
+            top: 20px;
+        }
+        .mobil-menu {
+            position: absolute;
+            right: 8%;
+        }
+        .mobil-menu-btn.active span:nth-child(2){opacity:0}
+        .mobil-menu-btn.active span:nth-child(1){transform:rotate(45deg);top:15px;right:0}
+        .mobil-menu-btn.active span:nth-child(3){transform:rotate(-45deg);top:15px;right:0}
+        .mobil-menu-btn.active strong{opacity:0}
+        .mobil-menu-btn.active span{background-color:#fff}
+        .menu ul li {
+            position: relative;
+            float: left;
+            width: 100%;
+            height: auto;
+        }
+        .menu ul li.active::before {
+            width: 0%;
+        }
+        .menu ul li:hover::before {
+    
+            width: 0%;
+        }
+        .menu2{
+            display: none;
+        }
+        .contact-menu{
+            display: none;
+        }
+        .contact-menu.active{
+            display: none !important; 
+        }
+        .contact .contact-bilgileri ul li:nth-child(2) {
+            margin-right: 15%;
+            width: 35%;
+        }
+        .contact-b input {
+            height: 45px;
+            width: 200px;
+        }
+        .contact .contact-bilgileri ul li:nth-child(1) a {
+            font-size: 28px;
+        }
+        .contact-bilgileri p {
+            font-size: 17px;
+            margin-bottom: 8%;
+            line-height: 25px;
+        }
+        .contact .contact-bilgileri h2 {
+    font-size: 30px;
+}
+        .iconbanner {
+            padding: 65px 0px;
+        }
+        .banner h1 {
+            font-size: 48px;
+        }
+        .iconbanner.aboutbanner strong {
+            font-size: 24px;
+        }
+        .iconbanner.aboutbanner p {
+            line-height: 30px;
+            font-size: 16px;
+            width: 90%;
+        }
+        .banner {
+            height: 420px;
+        }
+        .logo img {
+            width: 80%;
+        }
+        #pencet {
+            left: 22px;
+            bottom: 22px;
+        }
+        .slogan h1, h2, .banner h1 {
+            font-size: 44px;
+            line-height: 54px;
+        }
+        .slogan p {
+            font-size: 16px;
+        }
+        .slider .slogan {
+            margin-left: 14%;
+        }
+        .slide-menu {
+            bottom: 5%;
+        }
+        .container1 .left p {
+            font-size: 16px;
+        }
+        .slide-menu li a {
+            font-size: 17px;
+        }
+        .tabb {
+            padding: 0px 70px 14px 0px;
+        }
+        .container1 .left .button a i {
+            height: 50px;
+            width: 50px;
+        }
+        .container1 .left .button span {
+            font-size: 14px;
+            margin-left: 6%;
+        }
+        .container1 .left p {
+            padding-bottom: 4%;
+        }
+
+        .alt-banner {
+            height: 450px;
+        }
+
+        .iconbanner.mainpage p {
+            font-size: 20px;
+        }
+        .container1 .left h2 {
+            font-size:28px;
+            line-height: 35px;
+        }
+        .container2 {
+            width: 85%;
+        }
+        .orta-ust .right::before {
+            left: calc(-8% + 0px);
+        }
+        .orta-ust .right {
+            width: 50%;
+        }
+        .orta-ust .left {
+            width: 46%;
+        }
+        .bottomborder {
+            margin-bottom: 6%;
+            margin-top: -1%;
+        }
+        .footer .col1 i {
+            width: 40%;
+            
+        }
+        .footer .col1 p {
+
+            font-size: 15px;
+            width: 88%;
+        }
+        .footer .col1 ul {
+            width: 60%;
+        }
+        .footer .col2 li a {
+            font-size: 15px;
+            line-height: 38px;
+        }
+        .footer-contact li a {
+            padding: 30px 0px;
+        }
+        .green-text {
+            width: 180px;
+            height: 45px;
+        }
+        .green-submitclas {
+            width: 45px;
+            height: 45px;
+        }
+        .footer-contact li a {
+            padding: 25px 0px;
+        }
+        .footer strong {
+            font-size: 16px;
+        }
+        .footer-contact i {
+            width: 35px;
+            height: 35px;
+        }
+        .footer .col3 p {
+            width: 100%;
+        }
+        .footer-bottom p {
+            font-size: 14px;
+        }
+        .footer-contact {
+            margin: 4% 0px 3% 0px;
+        }
+        .footer-bottom {
+            margin-bottom: 3%;
+        }
+    }
+    /*850*/
+    @media only screen and (max-width:768px){
+        .container1 .left p {
+
+            padding-right: 0%;
+        }
+
+        .orta-ust .right {
+            width: 100%;
+        }
+        .orta-ust .right::before {
+            display: none;
+        }
+        .orta-ust .right::before {
+            left: calc(-8% + 0px);
+        }
+        ul.tabs li {
+            font-size: 16px;
+        }
+        .tabb {
+            padding: 0px 60px 14px 0px;
+        }
+
+        .tabmenu .tab-right {
+            width: 100%;
+            margin-left: 0px;
+        }
+        .footer .col1 ul {
+            width: 65%;
+        }
+        .footer .col1 {
+            width: 100%;
+            margin-bottom: 10%;
+        }
+        .footer .col1, .footer .col2 {
+            width: 100%;
+            margin-bottom: 10%;
+        }
+        .footer-bottom {
+            margin-bottom: 10%;
+        }
+        .footer .col3 {
+            width: 100%;
+            margin-bottom: 8%;
+
+        }
+        .footer .col3 p{
+        margin-bottom: 0%;
+        padding-top: 1%;
+    padding-bottom: 4%;
+
+        }
+        .footer-contact {
+            margin-bottom: 10%;
+        }
+        .green-submitclas button {
+            border: 1px solid #fff;
+            border-left: none;
+        }
+        .green-text {
+            width: 250px;
+            height: 45px;
+        }
+        .footer-contact li {
+            width: 100%;
+        }
+        .footer-contact i {
+            width: 30px;
+            height: 30px;
+        }
+    
+        .slider .slogan {
+            margin-left: 8%;
+            width: 85%;
+        }
+        .footer {
+            padding: 10% 0px 0px 0px;
+        }
+        .slogan h1, h2, .banner h1 {
+            font-size: 30px;
+            line-height: 40px;
+        }
+        .slider .owl-nav {
+            display: none;
+        }
+        .slider .arkaplan {
+            height: 450px;
+        }
+        .slogan p {
+            font-size: 14px;
+        }
+        .slide-menu {
+            display: none;
+        }
+        .slogan a {
+            padding: 8px 15px;
+        }
+        .slider .owl-dots {
+            position: absolute;
+            bottom: 5%;
+            left: 0px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+        }
+        s
+        .slider .owl-dots .owl-dot {
+            width: 19px;
+            height: 4px;
+            background: #fff;
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: all ease-in-out .4s;
+            opacity: .5;
+        }
+        .slider .owl-dots .owl-dot.active, .rslider  .owl-dot.active{
+            opacity: 1;
+            width: 25px;
+        }
+        .orta-ust .left {
+            padding-bottom: 10%;
+            width: 100%;
+        }
+        .orta-ust {
+            
+            padding: 15% 0px;
+        }
+        .container {
+            max-width: 100% !important;
+        }
+        .container1 {
+            width: 90%;
+        }
+        ul.tabs li {
+            border-right: 0.3px solid #A6A6A6;
+            border-left: 0.3px solid #A6A6A6;
+            border-top: 0.3px solid #A6A6A6;
+            width: 100%;
+        }
+        .tabb {
+            padding: 2%;
+        }
+        .tabmenu ul.tabs {
+            padding: 5%;
+            padding-top: 0px;
+            margin: 0;
+        }
+        .tabmenu .tab-left {
+            margin-bottom: 8%;
+            width: 100%;
+        }
+        .tabmenu {
+            margin: 15% 0px;
+        }
+        .alt-banner {
+            height: 300px;
+        }
+        .slogan.sbanner h2 {
+            width: 100%;
+            line-height: 36px;
+        }
+        .slogan.sbanner a {
+            font-size: 14px;
+        }
+        .slogan.sbanner p {
+            padding-bottom: 8%;
+        }
+        .iconbanner.mainpage p {
+            font-size: 15px;
+            width: 85%;
+            line-height: 22px;
+        }
+        .iconbanner .icong i {
+            width: 65px;
+            height: auto;
+        }
+        .iconbanner {
+            
+        }
+        .arkagorsel {
+            right: 3%;
+            bottom: 0px;
+            width: 40%;
+        }
+        .container1 .left p {
+            font-size: 15px;
+        }
+        .header {
+            height: 60px;
+        }
+        .container1 .left h2 {
+            font-size: 24px;
+        }
+        .container1 .left p {
+            font-size: 14px;
+        }
+  
+        .slider .owl-dots .owl-dot {
+            width: 19px;
+            height: 4px;
+            background: #fff;
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: all ease-in-out .4s;
+            opacity: .5;
+        }
+        .rslider {
+            margin: 15% 0px;
+            padding-bottom: 3%;
+        }
+        .rslider .owl-dots {
+            position: absolute;
+            bottom: -30%;
+            left: 0px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+        }
+        .rslider .owl-dot {
+            width: 22px;
+            height: 5px;
+            background: #000;
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: all ease-in-out .4s;
+            opacity: .5;
+        }
+        .footer .col1 p {
+            font-size: 15px;
+            width: 100%;
+            text-align: justify;
+        }
+        .header.fixed .menu ul li a {
+            color: #fff;
+        }
+        .banner {
+            height: 250px;
+        }
+        .iconbanner.aboutbanner .icon-logo i {
+            width: 40%;
+        }
+        .iconbanner.aboutbanner strong {
+            font-size: 20px;
+        }
+        .iconbanner.aboutbanner p {
+            line-height: 30px;
+            font-size: 15px;
+            width: 100%;
+            margin-top: 5%;
+        }
+        .banner h1 {
+            font-size: 28px;
+        }
+        .contact-bilgileri {
+            width: 100%;
+            padding-right: 0%;
+        }
+        .contact .contact-bilgileri h2 {
+            font-size: 28px;
+        }
+        .contact .contact-bilgileri ul li:nth-child(1) a {
+            font-size: 26px;
+        }
+        .contact .contact-bilgileri ul li {
+            width: 100%;
+            margin-right: 0%;
+        }
+        .contact .contact-bilgileri ul li span {
+            padding-bottom: 0;
+        }
+        .contact .contact-bilgileri ul li:nth-child(2) {
+            margin-right: 0;
+            width: 100%;
+        }
+        .contact .contact-bilgileri ul li {
+            margin-right: 0%;
+            margin-bottom: 8%;
+        }
+        .contact .contact-form li {
+            width: 100%;
+        }
+        .contact-b input {
+            height: 45px;
+            width: 100%;
+        }
+        
+        .contact-b input {
+            height: 45px;
+            width: 100%;
+            border: none;
+            border-bottom: 1px solid #E1E1E1;
+        }   
+        .contact-b input::placeholder {
+            color: #fff;
+        }
+        .contact .contact-form li textarea#message {
+        
+            border: none;
+            border-bottom: 1px solid #E1E1E1;
+           
+        }
+        .contact .contact-form li textarea#message::placeholder {
+            color: #fff;
+        }
+        .contact .contact-form li textarea#message {
+            height: 100px;
+        }
+        .contact-map {
+            height: 220px;
+        }
+        .contact-bilgileri p {
+            font-size: 15px;
+            margin-bottom: 8%;
+            line-height: 25px;
+        }
+        .contact .contact-bilgileri ul li a {
+            font-weight: 700;
+            color: #000;
+            font-size: 15px;
+        }
+        .contact {
+
+            padding: 10% 0;
+        }
+        .contact .contact-form {
+            margin-bottom: 5%;
+        }
+        .contact .contact-form {
+            position: relative;
+            float: left;
+            width: 100%;
+        }
+        .menu2{
+            display: none;
+        }
+        .contact-menu{
+            display: none;
+        }
+        .contact-menu.active{
+            display: none !important; 
+        }
+    }
